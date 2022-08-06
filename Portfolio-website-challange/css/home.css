@@ -1,0 +1,12 @@
+ul.secondNav {
+    list-style-type: none;
+    margin: 10px;
+}
+ul.secondNav li {
+    display: inline;
+}
+ul.secondNav li a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
