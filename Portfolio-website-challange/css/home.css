@@ -1,6 +1,14 @@
+/*Styling secondNav ul*/
+.about {
+    margin: 0;
+    background-color: rgb(229, 229, 111);
+    height: 500px;
+    padding-top: 50px;
+}
 ul.secondNav {
     list-style-type: none;
     margin: 10px;
+    display: inline-flex;
 }
 ul.secondNav li {
     display: inline;
@@ -9,4 +17,15 @@ ul.secondNav li a {
     text-decoration: none;
     color: black;
     padding: 20px;
+}
+
+/*styling the welcome div*/
+.welcome {
+    height: 500px;
+}
+
+/* styling testimonials div*/
+.testimonials {
+    background-color: dodgerblue;
+    margin: 0;
 }
