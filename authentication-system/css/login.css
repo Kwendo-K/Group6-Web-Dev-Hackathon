@@ -1,0 +1,12 @@
+* {
+    background-color: aliceblue;
+}
+.center-form {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.form {
+    width: 35%;
+}
