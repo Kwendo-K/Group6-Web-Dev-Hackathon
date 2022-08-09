@@ -1,0 +1,51 @@
+/*Styling secondNav ul*/
+.about {
+    margin: 0;
+    background-color: rgb(229, 229, 111);
+    height: 500px;
+    padding-top: 50px;
+}
+ul.secondNav {
+    list-style-type: none;
+    margin: 10px;
+    display: inline-flex;
+}
+ul.secondNav li {
+    display: inline;
+}
+ul.secondNav li a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+/*styling the welcome div*/
+.welcome {
+    height: 500px;
+}
+
+/* styling testimonials div*/
+.testimonials {
+    background-color: dodgerblue;
+    margin: 0;
+}
+
+/*Styling the gallery div*/
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    padding: 20px;
+}
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 150px;
+}
+div.description {
+    padding: 10px;
+    text-align: center;
+}

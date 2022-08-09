@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(224, 208, 239);
+}
+body {
+    background-color: rgb(120, 40, 195);
+}
+.form-center {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    width: 40%;
+}
+
+.small {
+    visibility: hidden;
+}
