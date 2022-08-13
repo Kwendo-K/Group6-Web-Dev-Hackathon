@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: burlywood;
+}
+
+.card {
+    width: 50%;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: whitesmoke;
+}
+
+.taskInput {
+    border-radius: 5px;
+    width: 340px;
+    height: 37px;
+}
